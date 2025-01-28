@@ -179,7 +179,7 @@ function About() {
               transition={{ duration: 0.6 }}
             >
               <img
-                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c"
+                src="https://images.pexels.com/photos/256395/pexels-photo-256395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt="Modern Classrooms"
                 className="w-full h-64 object-cover"
               />
@@ -200,7 +200,7 @@ function About() {
               transition={{ duration: 0.6, delay: 0.2 }}
             >
               <img
-                src="https://images.unsplash.com/photo-1497633762265-9d179a990aa6"
+                src="https://images.pexels.com/photos/256559/pexels-photo-256559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt="Library"
                 className="w-full h-64 object-cover"
               />
