@@ -207,7 +207,7 @@ function About() {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">Well-Stocked Library</h3>
                 <p className="text-gray-600">
-                  Extensive collection of study materials, reference books, and
+                  Exclusive collection of study materials, reference books, and
                   digital resources for student.
                 </p>
               </div>
