@@ -197,7 +197,7 @@ function About() {
               variants={fadeIn}
               initial="hidden"
               animate={inView ? "visible" : "hidden"}
-              transition={{ duration: 0.6, delay: 0.2 }}
+              transition={{ duration: 0.6, delay: 0.4 }}
             >
               <img
                 src="https://images.pexels.com/photos/256559/pexels-photo-256559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
