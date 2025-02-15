@@ -204,13 +204,13 @@ function About() {
                 alt="Library"
                 className="w-full h-64 object-cover"
               />
-              <div className="p-6 my-3 flex items-center justify-center">
+              <motion  className="p-6 my-3 flex items-center justify-center">
                 <h3 className="text-xl font-bold mb-2">Well-Stocked Library</h3>
                 <p className="text-gray-600">
                   A vast array of educational materials, reference books, and digital resources available for students.
 
                 </p>
-              </div>
+              </motion>
             </motion.div>
           </div>
         </div>
